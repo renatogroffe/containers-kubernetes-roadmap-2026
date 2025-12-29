@@ -12,6 +12,7 @@ Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnolo
 
 ## Treinamentos/Certificações Gratuitos da Linux Foundation
 - [Introduction to Linux - LFS101](https://training.linuxfoundation.org/training/introduction-to-linux/)
+- [Introduction to Kubernetes - LFS158](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
 
 ---
 
@@ -35,3 +36,5 @@ Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnolo
 
 ## Projetos Open Source
 - [Testcontainers](https://testcontainers.com/)
+- [kind - Emulador de Kubernetes](https://kind.sigs.k8s.io/)
+- [minikube - Emulador de Kubernetes](https://minikube.sigs.k8s.io/docs/)
