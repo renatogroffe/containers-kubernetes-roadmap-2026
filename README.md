@@ -29,3 +29,8 @@ Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnolo
 
 ## Apache Foundation
 - [Apache Projects List](https://projects.apache.org/projects.html)
+
+---
+
+## Projetos Open Source
+- [Testcontainers](https://testcontainers.com/)
