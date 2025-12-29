@@ -19,6 +19,7 @@ Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnolo
 -  [Skill up with Docker](https://www.docker.com/trainings/)
 -  [Docker Concepts](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nsDu5HtEqZ-xfjF-0-PfX)
 -  [Docker Foundations Professional Certificate - LinkedIn Learning](https://www.linkedin.com/learning/paths/docker-foundations-professional-certificate)
+-  [Play with Docker - Docker Playground](https://labs.play-with-docker.com/)
 
 ---
 
