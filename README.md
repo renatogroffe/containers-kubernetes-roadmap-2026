@@ -28,6 +28,10 @@ Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnolo
 ---
 
 ## Certificações Microsoft
+- AZ-104
+- AZ-204
+- AZ-400
+- AZ-305
 
 ---
 
