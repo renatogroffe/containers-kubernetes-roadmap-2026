@@ -32,10 +32,12 @@ Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnolo
 - AZ-204
 - AZ-400
 - AZ-305
+- AZ-700
 
 ---
 
 ## APIsec University
+- [Treinamentos/Certificações gratuitos em DevSecOps, IA, MCPs, APIs, APIOps](https://www.apisecuniversity.com/#courses)
 
 ---
 
