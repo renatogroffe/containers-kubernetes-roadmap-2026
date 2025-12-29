@@ -13,7 +13,7 @@ Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnolo
 ## Treinamentos/Certificações Gratuitos da Linux Foundation
 - [Introduction to Linux - LFS101](https://training.linuxfoundation.org/training/introduction-to-linux/)
 - [Introduction to Kubernetes - LFS158](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
-- keda
+- [Scaling Cloud Native Applications with KEDA - LFEL1014](https://training.linuxfoundation.org/express-learning/scaling-cloud-native-applications-with-keda-lfel1014/)
 - [Getting Started with OpenTelemetry - LFS148](https://training.linuxfoundation.org/training/getting-started-with-opentelemetry-lfs148/)
 - [Introduction to GitOps - LFS169](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
 
@@ -24,6 +24,10 @@ Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnolo
 -  [Docker Concepts](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nsDu5HtEqZ-xfjF-0-PfX)
 -  [Docker Foundations Professional Certificate - LinkedIn Learning](https://www.linkedin.com/learning/paths/docker-foundations-professional-certificate)
 -  [Play with Docker - Docker Playground](https://labs.play-with-docker.com/)
+
+---
+
+## APIsec University
 
 ---
 
