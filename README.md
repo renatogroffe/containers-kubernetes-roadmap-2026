@@ -32,7 +32,7 @@ Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnolo
 - AZ-204
 - AZ-400
 - AZ-305
-- AZ-700
+- [AZ-700 Design and Implement Microsoft Azure Network Solutions](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
 
 ---
 
