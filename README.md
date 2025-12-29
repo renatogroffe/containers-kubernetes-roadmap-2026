@@ -11,4 +11,4 @@ Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnolo
 ---
 
 ## Treinamentos/Certificações Gratuitos da Linux Foundation
-- https://training.linuxfoundation.org/training/introduction-to-linux/
+- [Introduction to Linux - LFS101](https://training.linuxfoundation.org/training/introduction-to-linux/)
