@@ -31,7 +31,7 @@ Roteiro de estudos para 2026 com foco em Containers, Kubernetes e outras tecnolo
 - [AZ-104: Azure Administrator](https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/)
 - AZ-204
 - AZ-400
-- AZ-305
+- [AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/)
 - [AZ-700: Design and Implement Microsoft Azure Network Solutions](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
 
 ---
